@@ -10,3 +10,6 @@ C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\obj\Debug\ConsoleAppl
 C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
 C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
 C:\git\testrepo2\helloworld\helloworld\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\git\testrepo2\hello\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\git\testrepo2\hello\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\git\testrepo2\hello\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
